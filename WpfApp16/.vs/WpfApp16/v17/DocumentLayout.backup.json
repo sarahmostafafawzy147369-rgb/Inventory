@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|c:\\users\\administrator\\source\\repos\\wpfapp16\\wpfapp16\\adminstrator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|solutionrelative:wpfapp16\\adminstrator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|c:\\users\\administrator\\source\\repos\\wpfapp16\\wpfapp16\\adminstrator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|solutionrelative:wpfapp16\\adminstrator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|c:\\users\\administrator\\source\\repos\\wpfapp16\\wpfapp16\\stockwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|solutionrelative:wpfapp16\\stockwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|c:\\users\\administrator\\source\\repos\\wpfapp16\\wpfapp16\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|solutionrelative:wpfapp16\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|c:\\users\\administrator\\source\\repos\\wpfapp16\\wpfapp16\\stockwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|solutionrelative:wpfapp16\\stockwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|c:\\users\\administrator\\source\\repos\\wpfapp16\\wpfapp16\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|solutionrelative:wpfapp16\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|c:\\users\\administrator\\source\\repos\\wpfapp16\\wpfapp16\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|solutionrelative:wpfapp16\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|c:\\users\\administrator\\source\\repos\\wpfapp16\\wpfapp16\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|solutionrelative:wpfapp16\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|c:\\users\\administrator\\source\\repos\\wpfapp16\\wpfapp16\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|solutionrelative:wpfapp16\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|c:\\users\\administrator\\source\\repos\\wpfapp16\\wpfapp16\\models\\_user_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557B2BAD-281C-472A-9563-058EE6F43F19}|WpfApp16\\WpfApp16.csproj|solutionrelative:wpfapp16\\models\\_user_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adminstrator.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Adminstrator.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp16\\Adminstrator.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Adminstrator.xaml.cs",
+              "RelativeToolTip": "WpfApp16\\Adminstrator.xaml.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAYwIsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T18:42:56.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adminstrator.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Adminstrator.xaml",
+              "RelativeDocumentMoniker": "WpfApp16\\Adminstrator.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Adminstrator.xaml",
+              "RelativeToolTip": "WpfApp16\\Adminstrator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-23T18:17:31.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WpfApp16\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Models\\Product.cs",
+              "RelativeToolTip": "WpfApp16\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:21:02.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stockwindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Stockwindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp16\\Stockwindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Stockwindow.xaml.cs",
+              "RelativeToolTip": "WpfApp16\\Stockwindow.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwDQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:43:34.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stockwindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Stockwindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp16\\Stockwindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Stockwindow.xaml",
+              "RelativeToolTip": "WpfApp16\\Stockwindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-23T17:28:17.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp16\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp16\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:19:00.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "WpfApp16\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Models\\Supplier.cs",
+              "RelativeToolTip": "WpfApp16\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:22:02.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp16\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp16\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-23T17:19:05.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Data\\MyDbcontext.cs",
+              "RelativeDocumentMoniker": "WpfApp16\\Data\\MyDbcontext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Data\\MyDbcontext.cs",
+              "RelativeToolTip": "WpfApp16\\Data\\MyDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:22:46.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_User_.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Models\\_User_.cs",
+              "RelativeDocumentMoniker": "WpfApp16\\Models\\_User_.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WpfApp16\\WpfApp16\\Models\\_User_.cs",
+              "RelativeToolTip": "WpfApp16\\Models\\_User_.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:19:48.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
